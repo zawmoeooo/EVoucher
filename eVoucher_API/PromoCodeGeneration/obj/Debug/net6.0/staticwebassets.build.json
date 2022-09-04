@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "LSYOZkCn++6GLwTtrmTMuJwpiTgUkdIjcI5PTPQ06S4=",
+  "Source": "PromoCodeGeneration",
+  "BasePath": "_content/PromoCodeGeneration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PromoCodeGeneration\\wwwroot",
+      "Source": "PromoCodeGeneration",
+      "ContentRoot": "D:\\My File\\ZMO\\eVoucher_Mgr\\eVoucher_API\\PromoCodeGeneration\\wwwroot\\",
+      "BasePath": "_content/PromoCodeGeneration",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My File\\ZMO\\eVoucher_Mgr\\eVoucher_API\\PromoCodeGeneration\\wwwroot\\Images\\5afe2237-f947-4fb7-82a6-b3893e389eb4.jpg",
+      "SourceId": "PromoCodeGeneration",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My File\\ZMO\\eVoucher_Mgr\\eVoucher_API\\PromoCodeGeneration\\wwwroot\\",
+      "BasePath": "_content/PromoCodeGeneration",
+      "RelativePath": "Images/5afe2237-f947-4fb7-82a6-b3893e389eb4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5afe2237-f947-4fb7-82a6-b3893e389eb4.jpg"
+    },
+    {
+      "Identity": "D:\\My File\\ZMO\\eVoucher_Mgr\\eVoucher_API\\PromoCodeGeneration\\wwwroot\\Images\\d0f3bd47-0b81-4b8c-860a-84c8bce3aae7.jpg",
+      "SourceId": "PromoCodeGeneration",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My File\\ZMO\\eVoucher_Mgr\\eVoucher_API\\PromoCodeGeneration\\wwwroot\\",
+      "BasePath": "_content/PromoCodeGeneration",
+      "RelativePath": "Images/d0f3bd47-0b81-4b8c-860a-84c8bce3aae7.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\d0f3bd47-0b81-4b8c-860a-84c8bce3aae7.jpg"
+    }
+  ]
+}

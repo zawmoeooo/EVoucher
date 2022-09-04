@@ -1,0 +1,14 @@
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\bin\Debug\net6.0\eVoucher_Entities.deps.json
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\bin\Debug\net6.0\eVoucher_Entities.runtimeconfig.json
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\bin\Debug\net6.0\eVoucher_Entities.dll
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\bin\Debug\net6.0\eVoucher_Entities.pdb
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.csproj.AssemblyReference.cache
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.AssemblyInfoInputs.cache
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.AssemblyInfo.cs
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.csproj.CoreCompileInputs.cache
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.dll
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\refint\eVoucher_Entities.dll
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.pdb
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\eVoucher_Entities.genruntimeconfig.cache
+D:\My File\ZMO\eVoucher_Mgr\eVoucher_API\eVoucher_Entities\obj\Debug\net6.0\ref\eVoucher_Entities.dll
